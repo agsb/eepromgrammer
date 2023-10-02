@@ -8,8 +8,10 @@ Is just a project exercise, too complex and sensible to errors in select eeprom 
 
 ## hardware
 
-Use two 74HC595 in cascate for address A0-A15, pull more one for A15-A23.
+For AT28C16 (2kb, 24 pins), AT28C64 (8kb, 28 pins), AT28C256 (64kb, 28 pins)
 
+Use a 40 pins zip-socket.
+Use two 74HC595 in cascate for address A0-A15.
 Use an arduino mini for data D0-D7 and control lines.
 
 Place arduino mini and 74hc595 top-down at left side of 40 pins zip-socket
