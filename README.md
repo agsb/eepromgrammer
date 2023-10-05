@@ -21,7 +21,6 @@ Place arduino mini and 74hc595 top-down at left side of 40 pins zip-socket
 | 02 | 17 | 11 | D0 | 
 | 03 | 18 | 12 | D1 | 
 | 04 | 19 | 13 | D2 |
-| GND | 20 | 14 | GND |
 | 05 | 21 | 15 | D3 | 
 | 06 | 22 | 16 | D4 | 
 | 07 | 23 | 17 | D5 | 
