@@ -1,6 +1,7 @@
 ## Header Pin Configuration
 
-|Pin No | Pin Name | Description:3,+28 | 
+|Pin No | Pin Name | Description |
+| --- | --- | --- |
 |7 | A14 | Address Pin 14 | 
 |8 | A12 | Address Pin 12 | 
 |9 | A7 | Address Pin 7 | 
@@ -33,12 +34,12 @@
 
 ## pinouts
 
-(AT28C256)[https://github.com/agsb/eepromgrammer/blob/main/28C256-pinout.jpg]
+[AT28C256](https://github.com/agsb/eepromgrammer/blob/main/28C256-pinout.jpg)
 
-(AT28C64)[https://github.com/agsb/eepromgrammer/blob/main/28C64-pinout.jpg]
+[AT28C64]([https://github.com/agsb/eepromgrammer/blob/main/28C64-pinout.jpg)
 
-(AT28C16)[https://github.com/agsb/eepromgrammer/blob/main/28C16-pinout.jpg]
+[AT28C16](https://github.com/agsb/eepromgrammer/blob/main/28C16-pinout.jpg)
 
-(SST39SF040)[https://github.com/agsb/eepromgrammer/blob/main/SST39SF040-pinout.jpg]
+[SST39SF040](https://github.com/agsb/eepromgrammer/blob/main/SST39SF040-pinout.jpg)
 
 
