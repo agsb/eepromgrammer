@@ -36,6 +36,8 @@
 
 [Arduino-Nano](https://github.com/agsb/eepromgrammer/blob/e9341a52fbe5ec78b4a520b02f17155613d26bcb/pinout-Arduino-Nano.png)
 
+[SN74HC595](https://github.com/agsb/eepromgrammer/blob/b177c6ecdc0a47e471f062eab4fed304ac8fa284/pinout-74hc595.png)
+
 [AT28C256](https://github.com/agsb/eepromgrammer/blob/e9341a52fbe5ec78b4a520b02f17155613d26bcb/pinout-AT28C256.jpg)
 
 [AT28C64](https://github.com/agsb/eepromgrammer/blob/e9341a52fbe5ec78b4a520b02f17155613d26bcb/pinout-AT28C64.jpg)
