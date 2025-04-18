@@ -24,20 +24,22 @@ From a arduino mini:
         - using D2 to D9 as data pins
         - using D9 as /HOLD and D10, D11, D12, D13, as SPI
         
-    | Arduino | circuit | OBS |
-    | --- | --- | --- |
-    | D0 | RX | NC |
-    | D1 | TX | NC |
-    | D2 | D0 | data pin d0 |
+| Arduino | circuit | OBS |
+| --- | --- | --- |
+| D0 | RX | NC |
+| D1 | TX | NC |
+| D2 | D0 | data pin d0 |
 
 
 The first design of eeprogrammer was too sensible to errors in 
-dip-switches, overrated usability and complex circuit and software.
+dip-switches, overrated usability and complex circuit and software, 
+then I simply put more headers to other eeprom families 
 
-    I will try simplify.
+I try K.I.S.S.
 
-    OBS.
+OBS.
 
-    For 5V all pull-ups 4k7 resistors.
-    For all chips VCC - 100nF - GND
+For 5V all pull-ups 4k7 resistors.
+
+For all chips VCC - 100nF - GND
 
