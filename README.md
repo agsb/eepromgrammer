@@ -34,7 +34,7 @@ The first design of eeprogrammer was too sensible to errors in
 dip-switches, overrated usability and complex circuit and software, 
 then I simply put more headers for other eeprom families;
 
-The reference [Pinout]()
+The reference [Pinout](https://github.com/agsb/eepromgrammer/blob/148cf59fdfdf9b6ff1b859eb0863042efeae660a/PinsOuts.md)
 
 OBS.
 
