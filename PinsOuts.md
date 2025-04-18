@@ -32,8 +32,12 @@
 
 ## pinouts
 
-(AT28C256)[https://github.com/agsb/eepromgrammer/blob/main/28C256-Pinout.jpg]
+(AT28C256)[https://github.com/agsb/eepromgrammer/blob/main/28C256-pinout.jpg]
 
-(AT28C64)[https://github.com/agsb/eepromgrammer/blob/main/28C64-Pinout.jpg]
+(AT28C64)[https://github.com/agsb/eepromgrammer/blob/main/28C64-pinout.jpg]
 
-(AT28C16)[https://github.com/agsb/eepromgrammer/blob/main/28C16-Pinout.jpg]
+(AT28C16)[https://github.com/agsb/eepromgrammer/blob/main/28C16-pinout.jpg]
+
+(SST39SF040)[https://github.com/agsb/eepromgrammer/blob/main/SST39SF040-pinout.jpg]
+
+
