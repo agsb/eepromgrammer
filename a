@@ -1,0 +1,28 @@
+
+| Arduino | circuit | OBS |
+| --- | --- | --- |
+| D0 | RX | NC, reserved for USART/USB |
+| D1 | TX | NC, reserved for USART/USB |
+| D2 | D0 | data pin d0 |
+| D3 | D1 | data pin d1 |
+| D4 | D2 | data pin d2 |
+| D5 | D3 | data pin d3 |
+| D6 | D4 | data pin d4 |
+| D7 | D5 | data pin d5 |
+| D8 | D6 | data pin d6 |
+| D9 | D7 /HOLD| data pin d7 and SPI /HOLD|
+| D10 | /SS RCLK | SPI chip select and serial clock in 74hc595 lower and upper address |
+| D11 | MOSI D15 | SPI mosi and extra high address |
+| D12 | MISO D16 | SPI miso and extra high address |
+| D13 | SCK  D17 | SPI msck and extra high address |
+| GND | VSS | board GND |
+
+| Arduino | circuit | OBS |
+| --- | --- | --- |
+| A0 | /CE | Chip Enable  |
+| A1 | /WE | Write Enable |
+| A2 | /OE | Output Enable |
+| A3 | SRCLR.L | serial clear in 74HC595 lower addres |
+| A4 | SDA SRCLR.U | I2C data and serial clear in 74HC595 upper addres |
+| A5 | SCL SER.L SER.U | I2C clock and serial in 74HC595 (lower and upper) |
+
