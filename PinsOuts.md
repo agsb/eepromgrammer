@@ -34,12 +34,14 @@
 
 ## pinouts
 
-[AT28C256](https://github.com/agsb/eepromgrammer/blob/92a82ab1cfd4467951e508f8c24f4ad054c41b72/28C256-pinout.jpg)
+[Arduino-Nano](https://github.com/agsb/eepromgrammer/blob/e9341a52fbe5ec78b4a520b02f17155613d26bcb/pinout-Arduino-Nano.png)
 
-[AT28C64]([https://github.com/agsb/eepromgrammer/blob/652c16dd4ddf0e24edc81b9a593ef7b5d083d8bb/28C64-pinout.jpg)
+[AT28C256](https://github.com/agsb/eepromgrammer/blob/e9341a52fbe5ec78b4a520b02f17155613d26bcb/pinout-AT28C256.jpg)
 
-[AT28C16](https://github.com/agsb/eepromgrammer/blob/main/28C16-pinout.jpg)
+[AT28C64](https://github.com/agsb/eepromgrammer/blob/e9341a52fbe5ec78b4a520b02f17155613d26bcb/pinout-AT28C64.jpg)
 
-[SST39SF040](https://github.com/agsb/eepromgrammer/blob/main/SST39SF040-pinout.jpg)
+[AT28C16](https://github.com/agsb/eepromgrammer/blob/e9341a52fbe5ec78b4a520b02f17155613d26bcb/pinout-AT28C16.png)
+
+[SST39SF040](https://github.com/agsb/eepromgrammer/blob/e9341a52fbe5ec78b4a520b02f17155613d26bcb/pinout-SST39SF040.png)
 
 
