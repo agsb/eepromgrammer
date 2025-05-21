@@ -29,5 +29,5 @@ sort -t',' -k3,3 -k1,2 | \
 sed -e '/^[ ]*$/d' | \
 tee $1.pns | \
 grep -v '# ' | grep -v ' nc,' | \
-cat -n > $1.lst
+cat > $1.lst
 
